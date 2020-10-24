@@ -1,0 +1,1 @@
+The last ubuntu image with wich the server is able to work is ubuntu:bionic. With ubuntu:latest the upstream requests are not able to work.
